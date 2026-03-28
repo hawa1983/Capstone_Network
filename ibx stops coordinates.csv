@@ -1,0 +1,20 @@
+﻿stop_id,station_complex_id,nearest_station_complex_id,stop_name,stop_lat,stop_lon,location_type
+IBX_1,616,,Roosevelt Avenue,40.7465,-73.891,1
+IBX_2,,616,Grand Avenue,40.7289,-73.8897,1
+IBX_3,,108,Eliot Avenue,40.7255,-73.8792,1
+IBX_4,108,,Metropolitan Avenue,40.7119,-73.8896,1
+IBX_5,,108,Myrtle Avenue,40.6997,-73.9109,1
+IBX_6,130,,Wilson Avenue,40.6871,-73.903,1
+IBX_7,617,,Atlantic Avenue,40.6835,-73.9083,1
+IBX_8,134,,Sutter Avenue,40.6696,-73.9022,1
+IBX_9,135,,Livonia Avenue,40.6644,-73.9002,1
+IBX_10,136,,Linden Blvd,40.6555,-73.906,1
+IBX_11,,136,Remsen Avenue,40.651,-73.916,1
+IBX_12,,359,Utica Avenue,40.6459,-73.9319,1
+IBX_13,359,,Flatbush–Nostrand,40.6328,-73.947,1
+IBX_14,608,,East 16 Street,40.6298,-73.9607,1
+IBX_15,246,,McDonald Avenue,40.6255,-73.9777,1
+IBX_16,615,,New Utrecht Avenue,40.6209,-73.9903,1
+IBX_17,71,,8 Avenue,40.6372,-74.0017,1
+IBX_18,608,,4 Avenue,40.6452,-74.0113,1
+IBX_19,,608,Brooklyn Army Terminal,40.6458,-74.032,1
